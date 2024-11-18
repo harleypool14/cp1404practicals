@@ -1,7 +1,7 @@
 """
 Project management program for tracking projects and their details.
-Estimate: 3.5 hours
-Time Taken: Around 5 hours (split over a few days)
+Estimate: 1.5 hours
+Time Taken: Around 2 hours (split over a few days)
 """
 import datetime
 from project import Project
